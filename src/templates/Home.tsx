@@ -31,7 +31,6 @@ const Home = () => {
                 <a href="#home">
                   <svg
                     aria-label="Home"
-                    className="_8-yf5 "
                     fill="#262626"
                     height="22"
                     role="img"
@@ -52,7 +51,6 @@ const Home = () => {
                   </span>
                   <svg
                     aria-label="Messenger"
-                    className="_8-yf5 "
                     fill="#262626"
                     height="22"
                     role="img"
@@ -67,7 +65,6 @@ const Home = () => {
                 <a href="#explore">
                   <svg
                     aria-label="Find People"
-                    className="_8-yf5 "
                     fill="#262626"
                     height="22"
                     role="img"
@@ -86,7 +83,6 @@ const Home = () => {
                 <a href="#activity">
                   <svg
                     aria-label="Activity Feed"
-                    className="_8-yf5 "
                     fill="#262626"
                     height="22"
                     role="img"
@@ -241,7 +237,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="More options"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="16"
                       role="img"
@@ -292,7 +287,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Activity Feed"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="22"
                           role="img"
@@ -307,7 +301,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Comment"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -326,7 +319,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Share Post"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -389,7 +381,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="Save"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="24"
                       role="img"
@@ -454,7 +445,6 @@ const Home = () => {
                       <svg
                         className="float-right mt-2"
                         aria-label="Like"
-                        className="_8-yf5 "
                         fill="#262626"
                         height="12"
                         role="img"
@@ -475,7 +465,6 @@ const Home = () => {
                     <svg
                       className="float-right mt-2"
                       aria-label="Like"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="12"
                       role="img"
@@ -495,7 +484,6 @@ const Home = () => {
                     <svg
                       className="float-right mt-2"
                       aria-label="Like"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="12"
                       role="img"
@@ -516,7 +504,6 @@ const Home = () => {
               >
                 <svg
                   aria-label="Emoji"
-                  className="_8-yf5 "
                   fill="#262626"
                   height="24"
                   role="img"
@@ -552,7 +539,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="More options"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="16"
                       role="img"
@@ -602,7 +588,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Activity Feed"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="22"
                           role="img"
@@ -617,7 +602,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Comment"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -636,7 +620,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Share Post"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -699,7 +682,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="Save"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="24"
                       role="img"
@@ -820,7 +802,6 @@ const Home = () => {
               <div className="hidden lg:flex justify-start items-center h-10 px-2 pl-4 pt-3 mt-3text-gray-900 border-t">
                 <svg
                   aria-label="Emoji"
-                  className="_8-yf5 "
                   fill="#262626"
                   height="24"
                   role="img"
@@ -859,7 +840,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="More options"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="16"
                       role="img"
@@ -909,7 +889,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Activity Feed"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="22"
                           role="img"
@@ -924,7 +903,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Comment"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -943,7 +921,6 @@ const Home = () => {
                       <a href="#activity">
                         <svg
                           aria-label="Share Post"
-                          className="_8-yf5 "
                           fill="#262626"
                           height="24"
                           role="img"
@@ -1006,7 +983,6 @@ const Home = () => {
                   <a href="#">
                     <svg
                       aria-label="Save"
-                      className="_8-yf5 "
                       fill="#262626"
                       height="24"
                       role="img"
@@ -1128,7 +1104,6 @@ const Home = () => {
               <div className="hidden lg:flex justify-start items-center h-10 px-2 pl-4 pt-3 mt-3 text-gray-900 border-t">
                 <svg
                   aria-label="Emoji"
-                  className="_8-yf5 "
                   fill="#262626"
                   height="24"
                   role="img"
