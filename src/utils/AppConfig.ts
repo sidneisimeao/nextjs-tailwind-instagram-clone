@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
-  locale: 'en',
+  site_name: 'nextjs-tailwind-instagram-clone.netlify',
+  title: 'Nextjs + Tailwind, Instagram Clone',
+  description:
+    'Estudos frondend usando React+Tailwind, para clonar a interface do Instagram.',
+  locale: 'pt_BR',
 };
